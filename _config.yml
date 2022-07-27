@@ -14,7 +14,7 @@ title: 'LA CAZUELA ROJA'
 slogan: 'Recetas y Actualidad gastronómica.'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»La Cazuela Roja« es el lugar donde encontrar recetas de cocina y noticias de actualidad gastronómica.'
+description: '»La Cazuela Roja« es un lugar donde encontrar recetas de cocina y noticias de actualidad gastronómica.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Un <a href="https://carlosguerra.es">Sitio de Guerra</a> creado con &hearts; en <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> de <a href="http://phlow.de/">Phlow</a> con <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>.</p>'
