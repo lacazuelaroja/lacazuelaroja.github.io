@@ -6,9 +6,9 @@
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 carlos: # replace this with your info
-  name: "Carlos Guerra"
-  siterole: "webmaster, developer, copywriter, designer"
+  name: "Carlos G"
+  siterole: "chef, foodie, gastrónomo"
   uri: http://carlosguerra.es/
-  email:
+  email: carlos@lacazuelaroja.com
   twitter: "@litusb"
 # you can add more authors here
